@@ -1,0 +1,1 @@
+const baseUrl='https://www.breakingbadapi.com/api/characters?limit=10&offset=';
